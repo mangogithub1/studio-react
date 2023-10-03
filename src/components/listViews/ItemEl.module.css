@@ -1,0 +1,24 @@
+.title {
+	color: var(--tone-1);
+	font-weight: 900;
+	margin-right: 2rem;
+	width: 6rem;
+	text-align: justify;
+	font-size: 1.4rem;
+	letter-spacing: 0.5px;
+}
+.content {
+	font-size: 1.8rem;
+}
+.tag {
+	letter-spacing: -0.8px;
+	font-size: 1.4rem;
+	color: var(--shade-2);
+	border-radius: 25rem;
+	padding: 0.4rem 1rem;
+	box-shadow: 2px 2px 1px #3a54771a, 0px 0px 2px #3a547769;
+	box-shadow: 0px 0px 3px var(--blue);
+	margin-right: 0.6rem;
+	background-color: #2ea2cc33;
+}
+.item_text{padding:0.8rem 0 0.8rem 0;}

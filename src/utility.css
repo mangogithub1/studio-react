@@ -1,0 +1,23 @@
+:root {
+	--primary-color: #1967d2;
+	--hover-color: #1451a4;
+	--tint-3: #478be9;
+	--tint-2: #84b2f0;
+	--tint-1: #c2d8f8;
+	--white: #ffffff;
+	--shade-3: #134d9d;
+	--shade-2: #0c3369;
+	--shade-1: #061a34;
+	--black: #000000;
+	--tone-3: #4a7bbe;
+	--tone-2: #5c7daa;
+	--tone-1: #6e7e95;
+	--red: #d219c4;
+	--green:#67d219;
+	--orange: #d28419;
+	--blue: #2ea2cc;
+	--highlight: #77a464;
+	--light: #e0ecfb;
+	--dark: #202124;
+
+}
